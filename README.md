@@ -4,7 +4,8 @@
 </p>
 
 <h1 align="center">Hi there, I'm Kesha</h1>
-<p align="center">Welcome to my GitHub profile!</p>
+<p align="center">Welcome to my GitHub profile!ദ്ദി ˉ͈̀꒳ˉ͈́ )✧</p>
+<h1 align="center">ദ്ദി ˉ͈̀꒳ˉ͈́ )✧</h1>
 
 <!-- Badges -->
 <p align="center">
