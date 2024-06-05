@@ -3,9 +3,14 @@
   <img src="https://github.com/kcenizaj/kcenizaj/assets/150229810/8a13035c-63d3-4150-96d1-5c1690bf7b84" alt="MathCalculateGIF" width="200"/>
 </p>
 
+<p align="center">
+  <img src="https://media.giphy.com/media/NXEuPHCOiJujANVznL/giphy.gif" alt="Visuals Network Connectivity" width="480" height="480"/>
+</p>
+
 <h1 align="center">Hi there, I'm Kesha</h1>
-<p align="center">Welcome to my GitHub profile!ദ്ദി ˉ͈̀꒳ˉ͈́ )✧</p>
+<p align="center">Welcome to my GitHub profile!</p>
 <h1 align="center">ദ്ദി ˉ͈̀꒳ˉ͈́ )✧</h1>
+
 
 <!-- Badges -->
 <p align="center">
