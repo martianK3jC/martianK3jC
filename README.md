@@ -20,7 +20,7 @@
 
 <div style="margin-right: 20px;">
   <p>
-    <img src="https://github.com/martianK3jC/martianK3jC/assets/150229810/43075790-7e0a-4fca-af87-de71c0392724" alt="DrunkDancingStupidPeopleGIF" width="200" height="200" align="left" style="margin-right: 20px;"/>
+    <img src="https://github.com/martianK3jC/martianK3jC/assets/150229810/43075790-7e0a-4fca-af87-de71c0392724" alt="DrunkDancingStupidPeopleGIF" width="200" height="200" align="right" style="margin-right: 20px;"/>
   </p>
 </div>
 
