@@ -22,16 +22,24 @@
   <p>
     <img src="https://github.com/martianK3jC/martianK3jC/assets/150229810/43075790-7e0a-4fca-af87-de71c0392724" alt="DrunkDancingStupidPeopleGIF" width="200" height="200" align="left" style="margin-right: 20px;"/>
   </p>
-
-  <ul>
-    <li>🌱Learning Git and GitHub to manage projects, collaborate, and track code changes.</li>
-    <li>💞️ I’m looking to collaborate on exciting projects (more details to come!).</li>
-    <li>📫 How to reach me... don't... But if you must, here's my email: quackersnackercracker@duck.com 🦆</li>
-    <li>🍫 Pronouns: Her/She (Hersheys🫢).</li>
-    <li>🫏 Fun fact: A donkey is also called an ass (*￣∀￣).</li>
-  </ul>
-
 </div>
+
+- 🌱 Learning Git and GitHub to manage projects, collaborate, and track code changes.
+
+- 💞️ I’m looking to collaborate on exciting projects (more details to come!).
+  
+- 📫 How to reach me: quackersnackercracker@duck.com 🦆
+  
+- 🍫 Pronouns: Her/She (Hersheys🫢).
+  
+- 🫏 Fun fact: A donkey is also called an ass (*￣∀￣).
+  
+
+
+
+  
+
+
 
 <br>
 <br>
