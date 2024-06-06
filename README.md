@@ -3,10 +3,9 @@
   <img src="https://github.com/martianK3jC/martianK3jC/assets/150229810/dc1276fc-b7a5-4a21-bbab-2096201d80dd" alt="Profile Picture" width="900" height = "300"/>
 </p>
 
-
-
 <h1 align="center">Hello, I'm Kesha 🚀</h1>
 <p align="center">Welcome to my GitHub profile! 👽</p>
+<h6 align="center">🫷This profile is still a work in progress🫸</h6>
 <h2 align="center">ദ്ദി ˉ͈̀꒳ˉ͈́ )✧</h2>
 
 <!-- Badges -->
@@ -18,20 +17,25 @@
 
 <!-- Introduction -->
 ## 👋 About Me
-<p align="center">
-  <img src="https://github.com/martianK3jC/martianK3jC/assets/150229810/43075790-7e0a-4fca-af87-de71c0392724" alt="DrunkDancingStupidPeopleGIF" width="200" height = "200"/>
-</p>
 
-- 🌱 I’m currently learning how to use **Git and GitHub** to manage my project files, collaborate with others, and track changes to my code.
-- 💞️ I’m looking to collaborate on exciting projects (more details to come!). 
-- 📫 How to reach me... don't... But if you must, here's my email: quackersnackercracker@duck.com 🦆
-- 🍫 Pronouns: Her/She (Hersheys🫢).
-- 🫏 Fun fact: A donkey is also called an ass (*￣∀￣). 
+<div style="margin-right: 20px;">
+  <p>
+    <img src="https://github.com/martianK3jC/martianK3jC/assets/150229810/43075790-7e0a-4fca-af87-de71c0392724" alt="DrunkDancingStupidPeopleGIF" width="200" height="200" align="left" style="margin-right: 20px;"/>
+  </p>
 
+  <ul>
+    <li>🌱Learning **Git** and **GitHub** to manage projects, collaborate, and track code changes.</li>
+    <li>💞️ I’m looking to collaborate on exciting projects (more details to come!).</li>
+    <li>📫 How to reach me... don't... But if you must, here's my email: quackersnackercracker@duck.com 🦆</li>
+    <li>🍫 Pronouns: Her/She (Hersheys🫢).</li>
+    <li>🫏 Fun fact: A donkey is also called an ass (*￣∀￣).</li>
+  </ul>
 
+</div>
 
 <br>
 <br>
+
 
 <!-- Skills -->
 ## 🔧 Skills
@@ -49,7 +53,6 @@
 </p>
 
 <br>
-<br>
 
 <!-- Projects -->
 ## 📂 Projects
@@ -60,8 +63,6 @@
   <img src="https://github.com/martianK3jC/martianK3jC/assets/150229810/56a760fa-7b31-48a4-bfbe-8a640295f8d3" alt="Profile Picture" width="900" height = "400"/>
 </p>
 
-
-<br>
 <br>
 
 <!-- My Statistics -->
