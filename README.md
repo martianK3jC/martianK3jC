@@ -24,7 +24,7 @@
   </p>
 
   <ul>
-    <li>🌱Learning **Git** and **GitHub** to manage projects, collaborate, and track code changes.</li>
+    <li>🌱Learning Git and GitHub to manage projects, collaborate, and track code changes.</li>
     <li>💞️ I’m looking to collaborate on exciting projects (more details to come!).</li>
     <li>📫 How to reach me... don't... But if you must, here's my email: quackersnackercracker@duck.com 🦆</li>
     <li>🍫 Pronouns: Her/She (Hersheys🫢).</li>
@@ -87,5 +87,5 @@
 
 <!-- Footer -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=martianK3j&style=flat-square" alt="Profile Views">
+  <img src="https://komarev.com/ghpvc/?username=martianK3jC&style=flat-square" alt="Profile Views">
 </p>
