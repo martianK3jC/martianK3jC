@@ -32,7 +32,7 @@
   
 - 🍫 Pronouns: Her/She (Hersheys🫢).
   
-- 🫏 Fun fact: A donkey is also called an ass (*￣∀￣).
+- 🫏 Fun fact: Saying "sheesh" is fun (*￣∀￣).
   
 
 
