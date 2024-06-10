@@ -11,7 +11,7 @@
 <!-- Badges -->
 <p align="center">
   <a href="https://github.com/kcenizaj">
-    <img src="https://img.shields.io/badge/GitHub-kcenizaj-181717?style=flat-square&logo=github" alt="GitHub">
+    <img src="https://img.shields.io/badge/GitHub-martianK3jC-181717?style=round-square&logo=github" alt="GitHub">
   </a>
 </p>
 
@@ -32,7 +32,7 @@
   
 - 🍫 Pronouns: Her/She (Hersheys🫢).
   
-- 🫏 Fun fact: Saying "sheesh" is fun (*￣∀￣).
+- ✨ Favorite Quote: "Yeah! Rock you!" - Bocchi🎸😵.
   
 
 
