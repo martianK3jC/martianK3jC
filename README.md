@@ -10,7 +10,7 @@
 
 <!-- Badges -->
 <p align="center">
-  <a href="https://github.com/kcenizaj">
+  <a href="https://github.com/martianK3jC">
     <img src="https://img.shields.io/badge/GitHub-martianK3jC-181717?style=round-square&logo=github" alt="GitHub">
   </a>
 </p>
