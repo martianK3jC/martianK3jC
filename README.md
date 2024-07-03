@@ -32,7 +32,7 @@
   
 - 🍫 Pronouns: Her/She (Hersheys🫢).
   
-- ✨ Favorite Quote: "Yeah! Rock you!" - Bocchi🎸😵.
+- ✨ Click this link: https://www.youtube.com/watch?v=6FKqDNFpjvU
   
 
 
