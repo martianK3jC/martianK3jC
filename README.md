@@ -32,18 +32,9 @@
   
 - 🍫 Pronouns: Her/She (Hersheys🫢).
   
-- ✨ Daily Dose of Sunshine: https://www.youtube.com/watch?v=QBc7rUduBUg&t=1s
-  
-
-
-
-  
-
-
+- ✨ Daily Dose of Sunshine: https://www.youtube.com/watch?v=QBc7rUduBUg&t=1
 
 <br>
-<br>
-
 
 <!-- Skills -->
 ## 🔧 Skills
@@ -67,15 +58,15 @@
 - [Student Management System Project](https://github.com/kcenizaj/StudentManagementSystem.git): This is a simple and basic Student Management System Project.
 - [Web Portfolio](https://github.com/kcenizaj/Web_Portfolio.git): This is my soon-to-be Web Portfolio.
 - [Library Management System](https://github.com/kcenizaj/Lib_Management_System.git): This is a simple and plain Library Management System.
-<p align="center">
+<div align="center">
   <img src="https://github.com/martianK3jC/martianK3jC/assets/150229810/56a760fa-7b31-48a4-bfbe-8a640295f8d3" alt="Profile Picture" width="900" height = "400"/>
-</p>
+</div>
 
 <br>
 
 <!-- My Statistics -->
 ## 📶 Some Stats
-<p align="center">
+<div align="center">
   <table>
     <tr>
       <td>
@@ -86,30 +77,15 @@
       </td>
     </tr>
   </table>
-</p>
+</div>
 
-<p align="center">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=martianK3jC&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true&layout=compact" alt="Top Languages" />
-</p>
+</div>
 
+<br>
 <!--START_SECTION:waka-->
-<!-- 
-![Code Time](http://img.shields.io/badge/Code%20Time-3%20hrs%2022%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-106-blue)
-
-**🐱 My GitHub Data** 
-
-> 📦 13.0 kB Used in GitHub's Storage 
- > 
-> 🏆 159 Contributions in the Year 2024
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 5 Public Repositories 
- > 
-> 🔑 4 Private Repositories 
- > 
 **I'm a Night 🦉** 
 
 ```text
@@ -118,38 +94,14 @@
 🌃 Evening                289 commits         █████████░░░░░░░░░░░░░░░░   34.12 % 
 🌙 Night                  179 commits         █████░░░░░░░░░░░░░░░░░░░░   21.13 % 
 ```
-📅 **I'm Most Productive on Friday** 
-
-```text
-Monday                   34 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.01 % 
-Tuesday                  5 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 % 
-Wednesday                87 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.27 % 
-Thursday                 110 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.99 % 
-Friday                   210 commits         ██████░░░░░░░░░░░░░░░░░░░   24.79 % 
-Saturday                 203 commits         ██████░░░░░░░░░░░░░░░░░░░   23.97 % 
-Sunday                   198 commits         ██████░░░░░░░░░░░░░░░░░░░   23.38 % 
-```
-
 
 📊 **This Week I Spent My Time On** 
 
 ```text
-🕑︎ Time Zone: Asia/Manila
-
-💬 Programming Languages: 
+🧑‍💻 Technologies: 
 Razor                    1 hr 24 mins        █████████████░░░░░░░░░░░░   52.33 % 
 Binary                   43 mins             ███████░░░░░░░░░░░░░░░░░░   26.83 % 
 C#                       33 mins             █████░░░░░░░░░░░░░░░░░░░░   20.85 % 
-
-🔥 Editors: 
-Unknown Editor           1 hr 59 mins        ███████████████████░░░░░░   74.37 % 
-Visual Studio            41 mins             ██████░░░░░░░░░░░░░░░░░░░   25.63 % 
-
-🐱‍💻 Projects: 
-BlazorDeepDive           2 hrs 40 mins       █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Windows                  2 hrs 40 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C** 
@@ -159,22 +111,14 @@ C                        2 repos             ███████████�
 HTML                     1 repo              ████████░░░░░░░░░░░░░░░░░   33.33 % 
 ```
 
-
-
-**Timeline**
-
-![Lines of Code chart](https://raw.githubusercontent.com/martianK3jC/martianK3jC/main/assets/bar_graph.png)
-
-
- Last Updated on 20/07/2024 07:46:25 UTC
- -->
 <!--END_SECTION:waka-->
 
-<p align="center">
-  <img src="https://github.com/martianK3jC/martianK3jC/assets/150229810/ca343634-4abd-46a1-af00-eaf05da28e34" alt="Profile Picture" width="900" height = "400"/>
-</p>
-
 <!-- Footer -->
-<p align="center">
+<br>
+<div align="center">
+  <img src="https://github.com/martianK3jC/martianK3jC/assets/150229810/ca343634-4abd-46a1-af00-eaf05da28e34" alt="Profile Picture" width="900" height = "400"/>
+</div>
+<br/>
+<div align="center">
   <img src="https://komarev.com/ghpvc/?username=martianK3jC&style=for-the-badge&color=orange" alt="Nandatto konoyaruu">
-</p>
+</div>
