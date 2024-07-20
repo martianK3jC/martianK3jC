@@ -18,9 +18,11 @@ jobs:
           SECTION_NAME: waka 
           BLOCKS: languages,time,code 
           CODE_LANG: csharp,c, javascript
-          TIME_RANGE: all_time 
+          SHOW_LINES_OF_CODE: true
+          TIME_RANGE: last_7_days 
           LANG_COUNT: 3
           SHOW_TIME: true  
           SHOW_TOTAL: true 
           SHOW_MASKED_TIME: false  
           STOP_AT_OTHER: true  
+          SYMBOL_VERSION: 3
