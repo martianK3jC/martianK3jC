@@ -1,26 +1,42 @@
 name: Waka Readme
 
 on:
-  schedule:
-    # Runs at 12 AM PHT 
-    - cron: '0 16 * * *'
+  # for manual workflow trigger
   workflow_dispatch:
+  schedule:
+    # runs at 12 AM UTC (5:30 AM IST)
+    - cron: "0 0 * * *"
+
 jobs:
   update-readme:
-    name: Update Readme with Metrics
+    name: WakaReadme DevMetrics
     runs-on: ubuntu-latest
     steps:
-      - uses: anmol098/waka-readme-stats@master
-      - uses: athul/waka-readme@master
+        # this action name
+      - uses: athul/waka-readme@master # do NOT replace with anything else
         with:
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}
-          SHOW_OS: False
-          SHOW_PROJECTS: False
-          SHOW_EDITORS: False
-          SHOW_LOC_CHART: False
-          REPOSITORY: martianK3jC/martianK3jC
-          BLOCKS: ⣀⣄⣤⣦⣶⣷⣿
-          TIME_RANGE: last_7_days
-          IGNORED_LANGUAGES: YAML JSON TOML Binary
-          
+          GH_TOKEN: ${{ secrets.GH_TOKEN }} # optional if on profile readme
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }} # required
+          ### meta
+          REPOSITORY: martianK3jC/martianK3jC # optional
+          ### content
+          SHOW_TITLE: true # optional
+          SECTION_NAME: kesha # optional
+          BLOCKS: ⣀⣄⣤⣦⣶⣷⣿ # optional
+          CODE_LANG: csharp, c, razor, javascript, css, html # optional
+          TIME_RANGE: last_7_days # optional
+          LANG_COUNT: 10 # optional
+          SHOW_TIME: true # optional
+          SHOW_TOTAL: true # optional
+          SHOW_MASKED_TIME: false # optional
+          STOP_AT_OTHER: true # optional
+          IGNORED_LANGUAGES: YAML JSON TOML Binary, Image (png) # optional
+          ### commit
+          COMMIT_MESSAGE: Updated waka-readme graph with new metrics # optional
+          TARGET_BRANCH: main # optional
+          TARGET_PATH: README.md # optional
+          COMMITTER_NAME: GitHubActionBot # optional
+          COMMITTER_EMAIL: action-bot@github.com # optional
+          AUTHOR_NAME: Kesha # optional
+          AUTHOR_EMAIL: quackersnackercracker@duck.com # optional
+          # you can populate email-id with secrets instead
