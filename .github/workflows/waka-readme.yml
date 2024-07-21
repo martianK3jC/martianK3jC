@@ -18,7 +18,7 @@ jobs:
           GH_TOKEN: ${{ secrets.GH_TOKEN }} # optional if on profile readme
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }} # required
           #meta
-          REPOSITORY: <gh_martianK3jC>/<gh_martianK3jC>
+          REPOSITORY: martianK3jC/martianK3jC
           ### content
           SHOW_TITLE: true # optional
           SECTION_NAME: waka # optional
