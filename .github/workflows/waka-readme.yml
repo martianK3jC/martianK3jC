@@ -21,7 +21,6 @@ jobs:
           REPOSITORY: martianK3jC/martianK3jC # optional
           ### content
           SHOW_TITLE: true # optional
-          SECTION_NAME: kesha # optional
           BLOCKS: ⣀⣄⣤⣦⣶⣷⣿ # optional
           CODE_LANG: csharp, c, razor, javascript, css, html # optional
           TIME_RANGE: last_7_days # optional
