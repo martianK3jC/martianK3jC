@@ -22,7 +22,7 @@ jobs:
           ### content
           SHOW_TITLE: true # optional
           SECTION_NAME: waka # optional
-          BLOCKS: 🟥 🟧 🟨 🟩 🟦 🟪 # optional
+          BLOCKS: ░▒▓█ # optional
           CODE_LANG: csharp, c, javascript, razor # optional
           LANG_COUNT: 4
           TIME_RANGE: last_7_days # optional
