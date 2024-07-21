@@ -87,6 +87,16 @@
 
 <!--START_SECTION:waka-->
 
+```csharp, c, javascript, razor
+From: 13 July 2024 - To: 20 July 2024
+
+Total Time: 4 hrs 21 mins
+
+Razor         2 hrs 14 mins   ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   51.50 %
+Binary        1 hr 2 mins     ⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   23.81 %
+C#            1 hr 1 min      ⣿⣿⣿⣿⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   23.60 %
+```
+
 <!--END_SECTION:waka-->
 
 
