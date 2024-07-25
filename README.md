@@ -87,7 +87,7 @@
 <!--START_SECTION:waka-->
 
 ```csharp,c,razor,javascript,css,html
-From: 16 July 2024 - To: 23 July 2024
+From: 17 July 2024 - To: 24 July 2024
 
 Total Time: 4 hrs 21 mins
 
