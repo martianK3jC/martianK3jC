@@ -24,11 +24,11 @@
   </p>
 </div>
 
-- 🌱 Learning Git and GitHub to manage projects, collaborate, and track code changes.
+- 🏫 Cebu Institute of Technology - University
 
-- 💞️ I’m looking to collaborate on exciting projects (more details to come!).
+- 🎓 BS Computer Science.
   
-- 📫 How to reach me: quackersnackercracker@duck.com 🦆
+- 📫 How to reach me: keshajane.ceniza@cit.edu 🦆
   
 - 🍫 Pronouns: Her/She (Hersheys🫢).
   
@@ -38,15 +38,6 @@
 
 <!-- Skills -->
 ## 🔧 Skills
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
 <p align="center">
   <img src="https://github.com/martianK3jC/martianK3jC/assets/150229810/b7c27a51-8f8d-4968-8674-bdd0cf118f12" alt="DrunkDancingStupidPeopleGIF" width="900" height = "400"/>
 </p>
@@ -55,9 +46,6 @@
 
 <!-- Projects -->
 ## 📂 Projects
-- [Student Management System Project](https://github.com/kcenizaj/StudentManagementSystem.git): This is a simple and basic Student Management System Project.
-- [Web Portfolio](https://github.com/kcenizaj/Web_Portfolio.git): This is my soon-to-be Web Portfolio.
-- [Library Management System](https://github.com/kcenizaj/Lib_Management_System.git): This is a simple and plain Library Management System.
 <div align="center">
   <img src="https://github.com/martianK3jC/martianK3jC/assets/150229810/56a760fa-7b31-48a4-bfbe-8a640295f8d3" alt="Profile Picture" width="900" height = "400"/>
 </div>
@@ -69,9 +57,6 @@
 <div align="center">
   <table>
     <tr>
-      <td>
-        <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=martianK3jC&show_icons=true&theme=tokyonight" alt="martianK3jC" /></p>
-      </td>
       <td style="padding-left: 10px;">
         <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=martianK3jC&theme=tokyonight" alt="martianK3jC"/>
       </td>
@@ -91,6 +76,3 @@
   <img src="https://github.com/martianK3jC/martianK3jC/assets/150229810/ca343634-4abd-46a1-af00-eaf05da28e34" alt="Profile Picture" width="900" height = "400"/>
 </div>
 <br/>
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=martianK3jCeniza&style=for-the-badge&color=orange" alt="Nandatto konoyaruu">
-</div>
