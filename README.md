@@ -54,15 +54,6 @@
 
 <!-- My Statistics -->
 ## 📶 Some Stats
-<div align="center">
-  <table>
-    <tr>
-      <td style="padding-left: 10px;">
-        <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=martianK3jC&theme=tokyonight" alt="martianK3jC"/>
-      </td>
-    </tr>
-  </table>
-</div>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=martianK3jC&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true&layout=compact" alt="Top Languages" />
