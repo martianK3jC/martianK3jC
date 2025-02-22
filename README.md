@@ -32,7 +32,7 @@
   
 - 🍫 Pronouns: Her/She (Hersheys🫢).
   
-- ✨ Daily Dose of Sunshine: https://www.youtube.com/watch?v=QBc7rUduBUg&t=1
+- ✨ Daily Dose of Sunshine: [Watch Here](https://www.youtube.com/watch?v=QBc7rUduBUg&t=1)
 
 <br>
 
