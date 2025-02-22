@@ -55,11 +55,20 @@
 <!-- My Statistics -->
 ## 📶 Some Stats
 
-<div align="center">
+<!-- Top Languages -->
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=martianK3jC&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true&layout=compact" alt="Top Languages" />
-</div>
+</p>
 
-<br>
+<!-- GitHub Streak -->
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=martianK3jC&theme=radical&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<!-- GitHub Stats -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=martianK3jC&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+</p>
 
 <!-- Footer -->
 <br>
