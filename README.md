@@ -57,7 +57,7 @@
 
 <!-- Top Languages -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=martianK3jC&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=martianK3jC&theme=radical&hide_border=true&include_all_commits=false&count_private=true&layout=compact" alt="Top Languages" />
 </p>
 
 <!-- GitHub Streak -->
@@ -67,7 +67,7 @@
 
 <!-- GitHub Stats -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=martianK3jC&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=martianK3jC&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
 </p>
 
 <!-- Footer -->
