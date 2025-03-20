@@ -3,9 +3,8 @@
   <img src="https://github.com/martianK3jC/martianK3jC/assets/150229810/dc1276fc-b7a5-4a21-bbab-2096201d80dd" alt="Profile Picture" width="900" height = "300"/>
 </p>
 
-<h2 align="center">Hello, I'm Kesha <img
-src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif"
-/> </h2>
+<h1 align="center">Hello, I'm Kesha <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="30"/> </h1>
+
 <p align="center">Welcome to my GitHub profile! 👽</p>
 <h6 align="center">🫷This profile is still a work in progress🫸</h6>
 <h2 align="center">ദ്ദി ˉ͈̀꒳ˉ͈́ )✧</h2>
