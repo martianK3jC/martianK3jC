@@ -63,7 +63,7 @@
 
 <!-- GitHub Streak -->
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=martianK3jC&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats-two-sand.vercel.app?user=martianK3jC&theme=radical&border_radius=4.5" alt="GitHub Streak" />
 </p>
 
 <!-- GitHub Stats -->
