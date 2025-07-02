@@ -77,3 +77,8 @@
   <img src="https://github.com/martianK3jC/martianK3jC/assets/150229810/ca343634-4abd-46a1-af00-eaf05da28e34" alt="Profile Picture" width="900" height = "400"/>
 </div>
 <br/>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=tagbawKaLang"/>
+  
+</p>
