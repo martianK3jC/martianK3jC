@@ -1,0 +1,52 @@
+name: Update View Badge and Notify
+
+on:
+  schedule:
+    - cron: "0 * * * *"  # Every hour
+  workflow_dispatch:
+
+jobs:
+  update_and_notify:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Get current count from CountAPI
+        id: get_count
+        run: |
+          count=$(curl -s https://api.countapi.xyz/get/github-profile/martianK3jC-profile | jq '.value')
+          echo "current_count=$count" >> $GITHUB_ENV
+
+      - name: Read previous count
+        run: |
+          if [ -f counter/last-count.txt ]; then
+            last=$(cat counter/last-count.txt)
+          else
+            last=0
+          fi
+          echo "last_count=$last" >> $GITHUB_ENV
+
+      - name: Update badge.svg with new count
+        run: |
+          sed -i "s/<text x=\"135\" y=\"19\">.*<\/text>/<text x=\"135\" y=\"19\">$current_count<\/text>/g" counter/badge.svg
+          echo "$current_count" > counter/last-count.txt
+
+      - name: Commit updated badge and count
+        run: |
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+          git add counter/last-count.txt counter/badge.svg
+          git commit -m "Update badge to $current_count views" || echo "No changes"
+          git push
+
+      - name: Notify via Discord if count increased
+        run: |
+          if [ "$current_count" -gt "$last_count" ]; then
+            curl -H "Content-Type: application/json" \
+              -X POST \
+              -d "{\"content\": \"🔔 Your GitHub profile got a new visit! Total views: $current_count 🧡\"}" \
+              ${{ secrets.DISCORD_WEBHOOK_URL }}
+          else
+            echo "No new visit."
+          fi
