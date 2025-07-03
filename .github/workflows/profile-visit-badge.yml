@@ -15,11 +15,11 @@ jobs:
       - name: Increment and get current count from CountAPI
         id: get_count
         run: |
-          curl -s https://api.countapi.xyz/hit/github-profile/martianK3jC-profile
-          current=$(curl -s https://api.countapi.xyz/get/github-profile/martianK3jC-profile | jq '.value')
-          echo "current_count=$current" >> $GITHUB_ENV
-          echo "$current" > current-count.txt
-
+         curl -s -f https://api.countapi.xyz/hit/github-profile/martianK3jC-profile || echo "count_failed=true" >> $GITHUB_ENV
+         current=$(curl -s https://api.countapi.xyz/get/github-profile/martianK3jC-profile | jq -r '.value' || echo 0)
+         echo "current_count=$current" >> $GITHUB_ENV
+         echo "$current" > current-count.txt
+         
       - name: Read previous count
         run: |
           if [ -f counter/last-count.txt ]; then
@@ -52,3 +52,6 @@ jobs:
             -X POST \
             -d "{\"content\": \"🔔 Your GitHub profile got a new visit! Total views: ${{ env.current_count }} 🧡\"}" \
             ${{ secrets.DISCORD_WEBHOOK_URL }}
+
+
+
