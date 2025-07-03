@@ -19,7 +19,18 @@ jobs:
         run: |
           # Get current count from CountAPI
           response=$(curl -s "https://api.countapi.xyz/get/github-profile/martianK3jC-profile")
-          current=$(echo $response | jq -r '.value // 0')
+          echo "API Response: $response"
+          
+          # Check if response contains an error
+          if echo "$response" | grep -q "error"; then
+            echo "CountAPI returned an error, initializing counter..."
+            # Initialize the counter if it doesn't exist
+            curl -s "https://api.countapi.xyz/create?namespace=github-profile&key=martianK3jC-profile&value=0"
+            current=0
+          else
+            current=$(echo $response | jq -r '.value // 0')
+          fi
+          
           echo "current_count=$current" >> $GITHUB_ENV
           echo "Current count: $current"
 
