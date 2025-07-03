@@ -11,7 +11,9 @@
 
 <!-- Profile Views Counter -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/martianK3jC/martianK3jC/main/counter/badge.svg" alt="Profile Views"/>
+  <img src="https://api.countapi.xyz/hit/github-profile/martianK3jC-profile/img" alt="Profile Views" />
+  <br>
+  <img src="https://raw.githubusercontent.com/martianK3jC/martianK3jC/main/counter/badge.svg" alt="Custom View Counter"/>
 </p>
 
 <!-- Badges -->
