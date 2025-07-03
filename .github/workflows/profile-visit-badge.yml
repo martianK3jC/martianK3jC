@@ -11,14 +11,17 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Increment and get current count from CountAPI
+      - name: Get current count from CountAPI
         id: get_count
         run: |
-          curl -s -f https://api.countapi.xyz/hit/github-profile/martianK3jC-profile || echo "count_failed=true" >> $GITHUB_ENV
-          current=$(curl -s https://api.countapi.xyz/get/github-profile/martianK3jC-profile | jq -r '.value' || echo 0)
+          # Get current count from CountAPI
+          response=$(curl -s "https://api.countapi.xyz/get/github-profile/martianK3jC-profile")
+          current=$(echo $response | jq -r '.value // 0')
           echo "current_count=$current" >> $GITHUB_ENV
-          echo "$current" > current-count.txt
+          echo "Current count: $current"
 
       - name: Read previous count
         run: |
@@ -28,31 +31,43 @@ jobs:
             last=0
           fi
           echo "last_count=$last" >> $GITHUB_ENV
+          echo "Previous count: $last"
+
+      - name: Check if count increased
+        run: |
+          if [ "${{ env.current_count }}" -gt "${{ env.last_count }}" ]; then
+            echo "count_increased=true" >> $GITHUB_ENV
+            echo "Count increased from ${{ env.last_count }} to ${{ env.current_count }}"
+          else
+            echo "count_increased=false" >> $GITHUB_ENV
+            echo "Count did not increase"
+          fi
 
       - name: Update badge.svg with new count
         run: |
-          sed -i "s/<text x=\"150\" y=\"26\">[0-9]*<\/text>/<text x=\"150\" y=\"26\">${{ env.current_count }}<\/text>/g" counter/badge.svg
+          # Update the badge with the current count
+          sed -i "s/<text x=\"[0-9]*\" y=\"[0-9]*\"[^>]*>[0-9]*<\/text>/<text x=\"85\" y=\"15\" fill=\"white\" font-family=\"Arial, sans-serif\" font-size=\"12\" font-weight=\"bold\">${{ env.current_count }}<\/text>/g" counter/badge.svg
 
       - name: Save new count to file
         run: |
-          cp current-count.txt counter/last-count.txt
+          echo "${{ env.current_count }}" > counter/last-count.txt
 
       - name: Commit updated badge and count
         run: |
-          git config user.name "github-actions"
-          git config user.email "actions@github.com"
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
           git add counter/last-count.txt counter/badge.svg
-          git commit -m "Update view count to ${{ env.current_count }}" || echo "No changes to commit"
-          git push
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "Update view count to ${{ env.current_count }}"
+            git push
+          fi
 
       - name: Notify via Discord if count increased
+        if: env.count_increased == 'true'
         run: |
           curl -H "Content-Type: application/json" \
             -X POST \
-            -d "{\"content\": \"🔔 Your GitHub profile got a new visit! Total views: ${{ env.current_count }} 🧡\"}" \
+            -d "{\"embeds\": [{\"title\": \"🚀 New GitHub Profile Visit!\", \"description\": \"Your profile **martianK3jC** got a new visit! 🎉\", \"color\": 16753920, \"fields\": [{\"name\": \"👁️ Total Views\", \"value\": \"${{ env.current_count }}\", \"inline\": true}, {\"name\": \"📈 Previous Views\", \"value\": \"${{ env.last_count }}\", \"inline\": true}], \"thumbnail\": {\"url\": \"https://github.com/martianK3jC.png\"}, \"timestamp\": \"$(date -u +%Y-%m-%dT%H:%M:%SZ)\"}]}" \
             ${{ secrets.DISCORD_WEBHOOK_URL }}
-
-      - name: Post Checkout repository
-        if: always()
-        run: |
-          git version
