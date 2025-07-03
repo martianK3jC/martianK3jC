@@ -79,6 +79,5 @@
 <br/>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=tagbawKaLang"/>
-  
+  <img src="https://raw.githubusercontent.com/martianK3jC/martianK3jC/main/counter/badge.svg" alt="Profile Views"/>
 </p>
