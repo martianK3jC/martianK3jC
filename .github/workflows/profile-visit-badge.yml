@@ -21,14 +21,15 @@ jobs:
           response=$(curl -s "https://api.countapi.xyz/get/github-profile/martianK3jC-profile")
           echo "API Response: $response"
           
-          # Check if response contains an error
-          if echo "$response" | grep -q "error"; then
-            echo "CountAPI returned an error, initializing counter..."
+          # Check if response contains an error or is empty
+          if echo "$response" | grep -q "error" || [ -z "$response" ] || echo "$response" | grep -q "null"; then
+            echo "CountAPI returned an error or counter doesn't exist, initializing counter..."
             # Initialize the counter if it doesn't exist
-            curl -s "https://api.countapi.xyz/create?namespace=github-profile&key=martianK3jC-profile&value=0"
+            init_response=$(curl -s "https://api.countapi.xyz/create?namespace=github-profile&key=martianK3jC-profile&value=0")
+            echo "Initialize response: $init_response"
             current=0
           else
-            current=$(echo $response | jq -r '.value // 0')
+            current=$(echo "$response" | jq -r '.value // 0')
           fi
           
           echo "current_count=$current" >> $GITHUB_ENV
@@ -57,7 +58,7 @@ jobs:
       - name: Update badge.svg with new count
         run: |
           # Update the badge with the current count
-          sed -i "s/<text x=\"[0-9]*\" y=\"[0-9]*\"[^>]*>[0-9]*<\/text>/<text x=\"85\" y=\"15\" fill=\"white\" font-family=\"Arial, sans-serif\" font-size=\"12\" font-weight=\"bold\">${{ env.current_count }}<\/text>/g" counter/badge.svg
+          sed -i "s/<text x=\"85\" y=\"15\"[^>]*>[0-9]*<\/text>/<text x=\"85\" y=\"15\" fill=\"white\" font-family=\"Arial, sans-serif\" font-size=\"12\" font-weight=\"bold\" dominant-baseline=\"middle\">${{ env.current_count }}<\/text>/g" counter/badge.svg
 
       - name: Save new count to file
         run: |
