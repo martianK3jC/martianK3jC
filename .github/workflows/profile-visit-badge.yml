@@ -15,8 +15,9 @@ jobs:
       - name: Get current count from CountAPI
         id: get_count
         run: |
-          count=$(curl -s https://api.countapi.xyz/get/github-profile/martianK3jC-profile | jq '.value')
-          echo "current_count=$count" >> $GITHUB_ENV
+          current=$(curl -s https://api.countapi.xyz/get/github-profile/martianK3jC-profile | jq '.value')
+          echo "current_count=$current" >> $GITHUB_ENV
+          echo "$current" > current-count.txt
 
       - name: Read previous count
         run: |
@@ -30,14 +31,17 @@ jobs:
       - name: Update badge.svg with new count
         run: |
           sed -i "s/<text x=\"135\" y=\"19\">.*<\/text>/<text x=\"135\" y=\"19\">$current_count<\/text>/g" counter/badge.svg
-          echo "$current_count" > counter/last-count.txt
+
+      - name: Save new count to file
+        run: |
+          cp current-count.txt counter/last-count.txt
 
       - name: Commit updated badge and count
         run: |
           git config user.name "github-actions"
           git config user.email "actions@github.com"
           git add counter/last-count.txt counter/badge.svg
-          git commit -m "Update badge to $current_count views" || echo "No changes"
+          git commit -m "Update view count to $current_count" || echo "No changes to commit"
           git push
 
       - name: Notify via Discord if count increased
