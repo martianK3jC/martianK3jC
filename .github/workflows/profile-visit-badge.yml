@@ -15,11 +15,11 @@ jobs:
       - name: Increment and get current count from CountAPI
         id: get_count
         run: |
-         curl -s -f https://api.countapi.xyz/hit/github-profile/martianK3jC-profile || echo "count_failed=true" >> $GITHUB_ENV
-         current=$(curl -s https://api.countapi.xyz/get/github-profile/martianK3jC-profile | jq -r '.value' || echo 0)
-         echo "current_count=$current" >> $GITHUB_ENV
-         echo "$current" > current-count.txt
-         
+          curl -s -f https://api.countapi.xyz/hit/github-profile/martianK3jC-profile || echo "count_failed=true" >> $GITHUB_ENV
+          current=$(curl -s https://api.countapi.xyz/get/github-profile/martianK3jC-profile | jq -r '.value' || echo 0)
+          echo "current_count=$current" >> $GITHUB_ENV
+          echo "$current" > current-count.txt
+
       - name: Read previous count
         run: |
           if [ -f counter/last-count.txt ]; then
@@ -31,7 +31,7 @@ jobs:
 
       - name: Update badge.svg with new count
         run: |
-          sed -i "s/<text x=\"135\" y=\"19\">[0-9]*<\/text>/<text x=\"135\" y=\"19\">${{ env.current_count }}<\/text>/g" counter/badge.svg
+          sed -i "s/<text x=\"150\" y=\"26\">[0-9]*<\/text>/<text x=\"150\" y=\"26\">${{ env.current_count }}<\/text>/g" counter/badge.svg
 
       - name: Save new count to file
         run: |
@@ -46,12 +46,13 @@ jobs:
           git push
 
       - name: Notify via Discord if count increased
-        if: env.current_count > env.last_count
         run: |
           curl -H "Content-Type: application/json" \
             -X POST \
             -d "{\"content\": \"🔔 Your GitHub profile got a new visit! Total views: ${{ env.current_count }} 🧡\"}" \
             ${{ secrets.DISCORD_WEBHOOK_URL }}
 
-
-
+      - name: Post Checkout repository
+        if: always()
+        run: |
+          git version
