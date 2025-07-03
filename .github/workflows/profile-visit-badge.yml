@@ -12,9 +12,10 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Get current count from CountAPI
+      - name: Increment and get current count from CountAPI
         id: get_count
         run: |
+          curl -s https://api.countapi.xyz/hit/github-profile/martianK3jC-profile
           current=$(curl -s https://api.countapi.xyz/get/github-profile/martianK3jC-profile | jq '.value')
           echo "current_count=$current" >> $GITHUB_ENV
           echo "$current" > current-count.txt
@@ -30,7 +31,7 @@ jobs:
 
       - name: Update badge.svg with new count
         run: |
-          sed -i "s/<text x=\"135\" y=\"19\">.*<\/text>/<text x=\"135\" y=\"19\">$current_count<\/text>/g" counter/badge.svg
+          sed -i "s/<text x=\"135\" y=\"19\">[0-9]*<\/text>/<text x=\"135\" y=\"19\">${{ env.current_count }}<\/text>/g" counter/badge.svg
 
       - name: Save new count to file
         run: |
@@ -41,16 +42,13 @@ jobs:
           git config user.name "github-actions"
           git config user.email "actions@github.com"
           git add counter/last-count.txt counter/badge.svg
-          git commit -m "Update view count to $current_count" || echo "No changes to commit"
+          git commit -m "Update view count to ${{ env.current_count }}" || echo "No changes to commit"
           git push
 
       - name: Notify via Discord if count increased
+        if: env.current_count > env.last_count
         run: |
-          if [ "$current_count" -gt "$last_count" ]; then
-            curl -H "Content-Type: application/json" \
-              -X POST \
-              -d "{\"content\": \"🔔 Your GitHub profile got a new visit! Total views: $current_count 🧡\"}" \
-              ${{ secrets.DISCORD_WEBHOOK_URL }}
-          else
-            echo "No new visit."
-          fi
+          curl -H "Content-Type: application/json" \
+            -X POST \
+            -d "{\"content\": \"🔔 Your GitHub profile got a new visit! Total views: ${{ env.current_count }} 🧡\"}" \
+            ${{ secrets.DISCORD_WEBHOOK_URL }}
