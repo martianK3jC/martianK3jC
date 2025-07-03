@@ -9,6 +9,11 @@
 <h6 align="center">🫷This profile is still a work in progress🫸</h6>
 <h2 align="center">ദ്ദി ˉ͈̀꒳ˉ͈́ )✧</h2>
 
+<!-- Profile Views Counter -->
+<p align="center">
+  <img src="https://api.countapi.xyz/hit/github-profile/martianK3jC-profile/img?style=flat-square" alt="wazzup" />
+  </p>
+
 <!-- Badges -->
 <p align="center">
   <a href="https://github.com/martianK3jC">
@@ -79,5 +84,5 @@
 <br/>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/martianK3jC/martianK3jC/main/counter/badge.svg" alt="Wazzap"/>
+  <img src="https://raw.githubusercontent.com/martianK3jC/martianK3jC/main/counter/badge.svg" alt="Profile View Counter"/>
 </p>
