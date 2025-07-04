@@ -80,5 +80,9 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=tag-anKolagi"/>
-  
 </p>
+
+<div align="center">
+  <h1>My GIF Of The Day</h1>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExampsMjYxZWM3dGExZTZ5NDhlZ21xdndpY2c2eTZ4MG0yb21nbWpoOSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/rhWOINgAe1pnO/giphy.gif" alt="This is why I have no bugs" width="900" height="400"/>
+</div>
