@@ -84,5 +84,6 @@
 
 <div align="center">
   <h1>My GIF Of The Week</h1>
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExampsMjYxZWM3dGExZTZ5NDhlZ21xdndpY2c2eTZ4MG0yb21nbWpoOSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/rhWOINgAe1pnO/giphy.gif" alt="This is why I have no bugs" width="900" height="400"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExejhzODNoNXNubjd5OWNnMzVuYWdoZTRpNjlvbjgzdGticGZ1ODc1aCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Hn7andvxoOvyU/giphy.gif" alt="wut u lookin' at?" width="500" height="200"/>
+<!-- https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExampsMjYxZWM3dGExZTZ5NDhlZ21xdndpY2c2eTZ4MG0yb21nbWpoOSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/rhWOINgAe1pnO/giphy.gif -->
 </div>
