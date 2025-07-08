@@ -84,6 +84,6 @@
 
 <div align="center">
   <h1>My GIF Of The Week</h1>
-  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3czFndXM1ZHp5bnh6cGM5eW1zZjZzbW9hcnlta3pqZW8wbHozd2E3cyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/boYxZ1fa72kcgr70sN/giphy.gif" alt="wa na ko kinomdom" width="500" height="200"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDRpbzhwNTRsYWltYXI3NXI5ODV2NXVsdjI4ZnBkaHMwbTF1YmZ6MiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3o7Zesyac4CuSN5rsA/giphy.gif" alt="wa na ko kinomdom" width="500" height="200"/>
 <!-- https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExampsMjYxZWM3dGExZTZ5NDhlZ21xdndpY2c2eTZ4MG0yb21nbWpoOSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/rhWOINgAe1pnO/giphy.gif -->
 </div>
