@@ -84,6 +84,6 @@
 
 <div align="center">
   <h1>My GIF Of The Week</h1>
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDRpbzhwNTRsYWltYXI3NXI5ODV2NXVsdjI4ZnBkaHMwbTF1YmZ6MiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3o7Zesyac4CuSN5rsA/giphy.gif" alt="wa na ko kinomdom" width="500" height="200"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmgwZnBydGl0emIzNTB0dmxjNW5meTgwZTNjbGs4ZzdtZTcweWhlbiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/EoH4Wpu8suiNTLpI6j/giphy.gif" alt="Operation: Make more gmail accounts for the WARP!" width="500" height="200"/>
 <!-- https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExampsMjYxZWM3dGExZTZ5NDhlZ21xdndpY2c2eTZ4MG0yb21nbWpoOSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/rhWOINgAe1pnO/giphy.gif -->
 </div>
