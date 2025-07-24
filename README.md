@@ -84,6 +84,6 @@
 
 <div align="center">
   <h1>My GIF Of The Week</h1>
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXg5cmM2Z2MwcGNkOW5rODUwY3hlemtpbWRsYXBvNjlqaTFidDFpNCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/xT0BKffFnsZCD3dpE4/giphy.gif" alt="huhuhu imy" width="500" height="300"/>
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTZjMDliOTUyOGxsbTNpODMxa2VjMzh0emZkdW1tdnhqd2I4bnNyb3htN2IxaXAxNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/0RHdUgsczVnLbLDQJ0/giphy.gif" alt="☹️" width="500" height="300"/>
 <!-- https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExampsMjYxZWM3dGExZTZ5NDhlZ21xdndpY2c2eTZ4MG0yb21nbWpoOSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/rhWOINgAe1pnO/giphy.gif -->
 </div>
