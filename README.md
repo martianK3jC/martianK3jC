@@ -83,7 +83,7 @@
 </p>
 
 <div align="center">
-  <h1>My GIF Of The Week</h1>
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHhpZGI3YjRqN3g0YmdtNHc0b3pmczVuNnpkemtoOXRhaWtlZzZ4YSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/XRSSo3az6LHkOQFs0O/giphy.gif" alt="AAAHHH AKO STREAK" width="500" height="300"/>
+  <h1>...</h1>
+  <img src="https://media.japanesewithanime.com/uploads/nekome-barakamon.jpg" width="533" height="300" alt="aw mao ba, k kanindot"  />
 <!-- https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExampsMjYxZWM3dGExZTZ5NDhlZ21xdndpY2c2eTZ4MG0yb21nbWpoOSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/rhWOINgAe1pnO/giphy.gif -->
 </div>
