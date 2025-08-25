@@ -9,13 +9,6 @@
 <h6 align="center">🫷This profile is still a work in progress🫸</h6>
 <h2 align="center">ദ്ദി ˉ͈̀꒳ˉ͈́ )✧</h2>
 
-<!-- Badges -->
-<p align="center">
-  <a href="https://github.com/martianK3jC">
-    <img src="https://img.shields.io/badge/GitHub-martianK3jC-181717?style=round-square&logo=github" alt="GitHub">
-  </a>
-</p>
-
 <!-- Introduction -->
 ## 👋 About Me
 
@@ -84,6 +77,6 @@
 
 <div align="center">
   <h1>...</h1>
-  <img src="https://media.japanesewithanime.com/uploads/nekome-barakamon.jpg" width="533" height="300" alt="aw mao ba, k kanindot"  />
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3d3Y4dzB4NmNuZWxqa3lienpnOXpvdWs4ZHU5a3hrNmVwbjN1N2tsOCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Rbt3HJ6pSpyco/giphy.gif" width="533" height="300" alt="bleh"  />
 <!-- https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExampsMjYxZWM3dGExZTZ5NDhlZ21xdndpY2c2eTZ4MG0yb21nbWpoOSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/rhWOINgAe1pnO/giphy.gif -->
 </div>
