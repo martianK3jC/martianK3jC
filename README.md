@@ -7,9 +7,14 @@
 
 <p align="center">Welcome to my GitHub profile! 👽</p>
 <h6 align="center">🫷This profile is still a work in progress🫸</h6>
-<h2 align="center">ദ്ദി ˉ͈̀꒳ˉ͈́ )✧</h2>
 
-[![Spotify](https://now-playing-profile-lac.vercel.app/api/now-playing)](https://open.spotify.com)
+<div align="center">
+
+  [![Spotify](https://now-playing-profile-lac.vercel.app/api/now-playing)](https://open.spotify.com)
+  
+</div>
+
+<h2 align="center">ദ്ദി ˉ͈̀꒳ˉ͈́ )✧</h2>
 
 <!-- Introduction -->
 ## 👋 About Me
@@ -29,6 +34,7 @@
 - 🍫 Pronouns: Her/She (Hersheys🫢).
   
 - ✨ Daily Dose of Sunshine: [Watch Here](https://www.youtube.com/watch?v=QBc7rUduBUg&t=1)
+
 
 
 
