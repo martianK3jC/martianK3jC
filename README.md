@@ -29,6 +29,10 @@
 - ✨ Daily Dose of Sunshine: [Watch Here](https://www.youtube.com/watch?v=QBc7rUduBUg&t=1)
 
 <br>
+<a href="https://open.spotify.com/user/YOUR_SPOTIFY_USERNAME">
+  <img src="https://now-playing-profile-qy3ol6wtf-martiank3jcs-projects.vercel.app/now-playing" alt="Spotify Now Playing" />
+</a>
+<br>
 
 <!-- Skills -->
 ## 🔧 Skills
