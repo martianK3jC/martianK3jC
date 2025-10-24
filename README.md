@@ -9,6 +9,8 @@
 <h6 align="center">🫷This profile is still a work in progress🫸</h6>
 <h2 align="center">ദ്ദി ˉ͈̀꒳ˉ͈́ )✧</h2>
 
+[![Spotify](https://now-playing-profile-lac.vercel.app/api/now-playing)](https://open.spotify.com)
+
 <!-- Introduction -->
 ## 👋 About Me
 
@@ -28,11 +30,7 @@
   
 - ✨ Daily Dose of Sunshine: [Watch Here](https://www.youtube.com/watch?v=QBc7rUduBUg&t=1)
 
-<br>
-<a href="https://open.spotify.com/user/YOUR_SPOTIFY_USERNAME">
-  <img src="https://now-playing-profile-qy3ol6wtf-martiank3jcs-projects.vercel.app/now-playing" alt="Spotify Now Playing" />
-</a>
-<br>
+
 
 <!-- Skills -->
 ## 🔧 Skills
