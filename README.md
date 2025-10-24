@@ -67,11 +67,6 @@
   <img src="https://github-readme-streak-stats-two-sand.vercel.app?user=martianK3jC&theme=radical&border_radius=4.5" alt="GitHub Streak" />
 </p>
 
-<!-- GitHub Stats -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=martianK3jC&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-</p>
-
 <!-- Footer -->
 <br>
 <div align="center">
@@ -79,12 +74,8 @@
 </div>
 <br/>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://komarev.com/ghpvc/?username=tag-anKolagi"/>
-</p>
+</p> -->
 
-<div align="center">
-  <h1>...</h1>
-  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3d3Y4dzB4NmNuZWxqa3lienpnOXpvdWs4ZHU5a3hrNmVwbjN1N2tsOCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Rbt3HJ6pSpyco/giphy.gif" width="533" height="300" alt="bleh"  />
-<!-- https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExampsMjYxZWM3dGExZTZ5NDhlZ21xdndpY2c2eTZ4MG0yb21nbWpoOSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/rhWOINgAe1pnO/giphy.gif -->
-</div>
+
