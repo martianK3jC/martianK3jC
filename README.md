@@ -8,33 +8,22 @@
 <p align="center">Welcome to my GitHub profile! 👽</p>
 <h6 align="center">🫷This profile is still a work in progress🫸</h6>  
 <!-- <h6 align="center">ctrl + shift + r to hard reload</h6> -->
-<div align="center">
+<!-- <div align="center">
 
   [![Spotify](https://now-playing-profile-lac.vercel.app/api/now-playing)](https://open.spotify.com)
   
-</div>
+</div> -->
 
 <h2 align="center">ദ്ദി ˉ͈̀꒳ˉ͈́ )✧</h2>
 
 <!-- Introduction -->
 ## 👋 About Me
 
-<div style="margin-right: 20px;">
-  <p>
-    <img src="https://github.com/martianK3jC/martianK3jC/assets/150229810/43075790-7e0a-4fca-af87-de71c0392724" alt="DrunkDancingStupidPeopleGIF" width="200" height="200" align="right" style="margin-right: 20px;"/>
-  </p>
-</div>
-
 - 🏫 Cebu Institute of Technology - University
 
 - 🎓 BS Computer Science.
   
-- 📫 How to reach me: keshajane.ceniza@cit.edu 🦆
-  
-- 🍫 Pronouns: Her/She (Hersheys🫢).
-  
-- ✨ Daily Dose of Sunshine: [Watch Here](https://www.youtube.com/watch?v=QBc7rUduBUg&t=1)
-
+- 📫 How to reach me: keshajane.ceniza@cit.edu 
 
 
 
@@ -58,9 +47,9 @@
 ## 📶 Some Stats
 
 <!-- Top Languages -->
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=martianK3jC&theme=radical&hide_border=true&include_all_commits=false&count_private=true&layout=compact" alt="Top Languages" />
-</p>
+</p> -->
 
 <!-- GitHub Streak -->
 <p align="center">
