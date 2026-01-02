@@ -5,7 +5,7 @@
 
 <h1 align="center">Hello, I'm Kesha <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="30"/> </h1>
 
-<p align="center">Welcome to my GitHub profile! 👽</p>
+<p align="center">Welcome to my GitHub profile! hehe</p>
 <h6 align="center">🫷This profile is still a work in progress🫸</h6>  
 <!-- <h6 align="center">ctrl + shift + r to hard reload</h6> -->
 <!-- <div align="center">
