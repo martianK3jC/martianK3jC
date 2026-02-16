@@ -3,7 +3,8 @@
   <img src="https://github.com/martianK3jC/martianK3jC/assets/150229810/dc1276fc-b7a5-4a21-bbab-2096201d80dd" alt="Profile Picture" width="900" height="300"/>
 </p>
 
-<h1 align="center">Hi, I'm Kesha! 👋</h1>
+<h1 align="center">Hi, I'm Kesha! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="30"/> </h1>
+
 <p align="center">Computer Science student | Aspiring developer | Lifelong learner</p>
 
 ---
