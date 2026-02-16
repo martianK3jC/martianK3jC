@@ -1,70 +1,81 @@
 <!-- Header -->
 <p align="center">
-  <img src="https://github.com/martianK3jC/martianK3jC/assets/150229810/dc1276fc-b7a5-4a21-bbab-2096201d80dd" alt="Profile Picture" width="900" height = "300"/>
+  <img src="https://github.com/martianK3jC/martianK3jC/assets/150229810/dc1276fc-b7a5-4a21-bbab-2096201d80dd" alt="Profile Picture" width="900" height="300"/>
 </p>
 
-<h1 align="center">Hello, I'm Kesha <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="30"/> </h1>
+<h1 align="center">Hi, I'm Kesha! 👋</h1>
+<p align="center">Computer Science student | Aspiring developer | Lifelong learner</p>
 
-<p align="center">Welcome to my GitHub profile! hehe</p>
-<h6 align="center">🫷This profile is still a work in progress🫸</h6>  
-<!-- <h6 align="center">ctrl + shift + r to hard reload</h6> -->
-<!-- <div align="center">
+---
 
-  [![Spotify](https://now-playing-profile-lac.vercel.app/api/now-playing)](https://open.spotify.com)
-  
-</div> -->
+## 🎓 About Me
 
-<h2 align="center">ദ്ദി ˉ͈̀꒳ˉ͈́ )✧</h2>
+- 📚 **2nd/3rd Year BS Computer Science** at Cebu Institute of Technology - University
+- 💻 Exploring full-stack development, mobile apps, and AI/ML
+- 🌱 Currently learning: 
+  - Deep Learning & Neural Networks
+  - Rust (building an interpreter!)
+  - Ubuntu/Linux & Blockchain development
+  - CI/CD pipelines
+- 🎯 Focused on building practical skills and shipping projects
+- 📫 Reach me: keshajane.ceniza@cit.edu
 
-<!-- Introduction -->
-## 👋 About Me
+---
 
-- 🏫 Cebu Institute of Technology - University
+## 🛠️ Tech Stack
 
-- 🎓 BS Computer Science.
-  
-- 📫 How to reach me: keshajane.ceniza@cit.edu 
+**Languages:**  
+`C` `C++` `C#` `Java` `Python` `JavaScript` `Kotlin` `Assembly` `Rust (learning)`
 
+**Web Development:**  
+`HTML` `CSS` `Django` `JavaScript`
 
+**Tools & Technologies:**  
+`Git` `GitHub` `CI/CD` `Figma` `Ubuntu/Linux`
 
-<!-- Skills -->
-## 🔧 Skills
-<p align="center">
-  <img src="https://github.com/martianK3jC/martianK3jC/assets/150229810/b7c27a51-8f8d-4968-8674-bdd0cf118f12" alt="DrunkDancingStupidPeopleGIF" width="900" height = "400"/>
-</p>
+**Currently Exploring:**  
+`Deep Learning` `Blockchain` `Interpreter Design`
 
-<br>
+> *Jack of all trades, master of none—but always learning and building!*
 
-<!-- Projects -->
-## 📂 Projects
-<div align="center">
-  <img src="https://github.com/martianK3jC/martianK3jC/assets/150229810/56a760fa-7b31-48a4-bfbe-8a640295f8d3" alt="Profile Picture" width="900" height = "400"/>
-</div>
+---
 
-<br>
+## 📌 Featured Projects
 
-<!-- My Statistics -->
-## 📶 Some Stats
+### 🧠 [Backpropagation Neural Network](https://github.com/martianK3jC/Backpropagation_Neural_Network)
+Implementation of a backpropagation algorithm for neural network training  
+**Tech:** C#
 
-<!-- Top Languages -->
-<!-- <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=martianK3jC&theme=radical&hide_border=true&include_all_commits=false&count_private=true&layout=compact" alt="Top Languages" />
-</p> -->
+### 🎲 [Pig Game](https://github.com/martianK3jC/Pig-game)
+Interactive dice game built with vanilla JavaScript  
+**Tech:** HTML, CSS, JavaScript
 
-<!-- GitHub Streak -->
+### 🧮 [CalcApp](https://github.com/martianK3jC/CalcApp)
+Modern calculator with multiple themes including light/dark modes  
+**Tech:** C#
+
+### 🍜 [ChowNow](https://github.com/martianK3jC/ChowNow)
+Food ordering web application (CSIT226 Final Project)  
+**Tech:** PHP, MySQL
+
+### 📸 [PicMosaic](https://github.com/martianK3jC/PicMosaic)
+Mobile app for creating photo mosaics (MobDev Final Project)  
+**Tech:** Kotlin
+
+---
+
+## 📊 GitHub Stats
+
 <p align="center">
   <img src="https://github-readme-streak-stats-two-sand.vercel.app?user=martianK3jC&theme=radical&border_radius=4.5" alt="GitHub Streak" />
 </p>
 
-<!-- Footer -->
-<br>
-<div align="center">
-  <img src="https://github.com/martianK3jC/martianK3jC/assets/150229810/ca343634-4abd-46a1-af00-eaf05da28e34" alt="Profile Picture" width="900" height = "400"/>
-</div>
-<br/>
+---
 
-<!-- <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=tag-anKolagi"/>
-</p> -->
+<p align="center">
+  <i>💡 Open to collaborations and learning opportunities!</i>
+</p>
 
-
+<p align="center">
+  <img src="https://github.com/martianK3jC/martianK3jC/assets/150229810/ca343634-4abd-46a1-af00-eaf05da28e34" alt="Footer" width="900" height="400"/>
+</p>
