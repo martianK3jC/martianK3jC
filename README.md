@@ -7,21 +7,32 @@
 
 <p align="center">Computer Science student | Aspiring developer | Lifelong learner</p>
 
----
+
+<table>
+  <tr>
+    <td valign="top">
 
 ## 🎓 About Me
 
-- 📚 **2nd Year BS Computer Science** at Cebu Institute of Technology - University
-- 💻 Exploring full-stack development, mobile apps, and AI/ML
-- 🌱 Currently learning: 
-  - Deep Learning & Neural Networks
-  - Rust (building an interpreter!)
-  - Ubuntu/Linux & Blockchain development
-  - CI/CD pipelines
-- 🎯 Focused on building practical skills and shipping projects
+- 📚 **2nd Year BS Computer Science** at Cebu Institute of Technology - University  
+- 💻 Exploring full-stack development, mobile apps, and AI/ML  
+- 🌱 Currently learning:  
+  - Deep Learning & Neural Networks  
+  - Rust (building an interpreter!)  
+  - Ubuntu/Linux & Blockchain development  
+  - CI/CD pipelines  
+- 🎯 Focused on building practical skills and shipping projects  
 - 📫 Reach me: keshajane.ceniza@cit.edu
 
----
+    </td>
+
+    <td valign="top">
+      <img width="280" src="https://github.com/user-attachments/assets/68185004-8716-4eb5-8489-a1cdf3ae9cc5" />
+    </td>
+  </tr>
+</table>
+
+----
 
 ## 🛠️ Tech Stack
 
@@ -80,3 +91,4 @@ Mobile app for creating photo mosaics (MobDev Final Project)
 <p align="center">
   <img src="https://github.com/martianK3jC/martianK3jC/assets/150229810/ca343634-4abd-46a1-af00-eaf05da28e34" alt="Footer" width="900" height="400"/>
 </p>
+
