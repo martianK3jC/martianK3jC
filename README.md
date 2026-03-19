@@ -82,7 +82,7 @@ Mobile app for creating photo mosaics (MobDev Final Project)
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats-two-sand.vercel.app?user=#imypoharharharyucks&theme=radical&border_radius=4.5" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats-two-sand.vercel.app?user=martianK3jC&theme=radical&border_radius=4.5" alt="GitHub Streak" />
 </p>
 
 ---
@@ -91,7 +91,7 @@ Mobile app for creating photo mosaics (MobDev Final Project)
   <i>💡 Open to collaborations and learning opportunities!</i>
 </p>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=martianK3jC&label=Profile%20views&color=800000&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=imypoharharharyucks&label=Profile%20&color=800000&style=for-the-badge" />
 </p>
 <p align="center">
   <img src="https://github.com/martianK3jC/martianK3jC/assets/150229810/ca343634-4abd-46a1-af00-eaf05da28e34" alt="Footer" width="900" height="400"/>
