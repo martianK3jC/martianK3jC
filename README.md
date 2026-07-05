@@ -10,7 +10,7 @@
 ---
 ## 🎓 About Me
 
-- 📚 **2nd Year BS Computer Science** at Cebu Institute of Technology - University  
+- 📚 **3rd Year BS Computer Science** at Cebu Institute of Technology - University  
 - 💻 Exploring full-stack development, mobile apps, and AI/ML  
 - 🌱 Currently learning:  
   - Deep Learning & Neural Networks  
