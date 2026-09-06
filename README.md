@@ -372,7 +372,7 @@ how much I don't know"
   <img
     src="https://github.com/martianK3jC/martianK3jC/assets/150229810/ca343634-4abd-46a1-af00-eaf05da28e34"
     alt="Footer"
-    width="100%"
+    width="67%"
   />
 </p>
 
