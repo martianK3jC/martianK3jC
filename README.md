@@ -3,6 +3,7 @@
   <img src="https://github.com/martianK3jC/martianK3jC/assets/150229810/dc1276fc-b7a5-4a21-bbab-2096201d80dd" alt="Profile Picture" width="900" height="300"/>
 </p>
 
+
 <h1 align="center">Hi, I'm Kesha! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="30"/> </h1>
 
 <p align="center">Computer Science student | Aspiring developer | Lifelong learner</p>
@@ -20,8 +21,10 @@
 - 🎯 Focused on building practical skills and shipping projects  
 - 📫 Reach me: keshajane.ceniza@cit.edu
 
+
+
 ---
-## 📊 GitHub Stats
+## 📊 Some Stats
 
 <p align="center">
     <img 
@@ -33,7 +36,13 @@
       height="180"
     />
 </p>
-
+<p align="center">
+  <img
+    src="https://duolingo-streak-tracker.vercel.app/api/card/EKSHAJ?theme=eel&variant=default"
+    alt="Duolingo Streak"
+    width="600"
+  />
+</p>
 ---
 ## 🛠️ Tech Stack
 
@@ -86,10 +95,12 @@ Mobile app for creating photo mosaics (MobDev Final Project)
 
 
 
-
 <p align="center">
   <img src="https://github.com/martianK3jC/martianK3jC/assets/150229810/ca343634-4abd-46a1-af00-eaf05da28e34" alt="Footer" width="900" height="400"/>
 </p>
+
+
+
 
 
  Hey! Ditch doomscrolling, Play Matiks⚡ instead. It’s fun, fast, and makes you feel smart! 😎 Earn In-App Currency! All you need is my code: MKXQXxzY https://app.matiks.org/?referrer=MKXQXxzY&referred_by=itya_jin
