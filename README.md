@@ -6,7 +6,7 @@
   <img
     src="https://media1.tenor.com/m/F5y9T_XYx9AAAAAd/disassociation-cat-memes.gif"
     alt="Disassociation cat"
-    width="100%"
+    width="67%"
   />
 </p>
 
