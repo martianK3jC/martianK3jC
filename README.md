@@ -3,12 +3,7 @@
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 <p align="center">
-  <img
-    src="https://tenor.com/view/year-flying-by-disassociation-year-velcro-made-gif-12183265970582376117"
-    
-    alt="Disassociation cat"
-    width="67%"
-  />
+  <img src="https://tenor.com/view/year-flying-by-disassociation-year-velcro-made-gif-12183265970582376117.gif" />
 </p>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
@@ -258,7 +253,7 @@ Probably.
 
 <p align="center">
   <img
-    src="https://duolingo-streak-tracker.vercel.app/api/card/EKSHAJ?theme=eel&variant=default"
+    src="https://duolingo-streak-tracker.vercel.app/api/card/itya_jin?theme=eel&variant=default"
     alt="Duolingo Streak"
     width="600"
   />
