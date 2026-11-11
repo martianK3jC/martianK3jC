@@ -4,7 +4,8 @@
 
 <p align="center">
   <img
-    src="https://media1.tenor.com/m/F5y9T_XYx9AAAAAd/disassociation-cat-memes.gif"
+    src="https://tenor.com/view/year-flying-by-disassociation-year-velcro-made-gif-12183265970582376117"
+    
     alt="Disassociation cat"
     width="67%"
   />
